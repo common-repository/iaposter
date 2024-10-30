@@ -1,0 +1,23 @@
+table.form-table.iaposter-categories-to-boards-table {
+  width: 600px;
+}
+
+table.form-table.iaposter-categories-to-boards-table th {
+  width: 100px;
+  padding: 7px 10px 7px 0;
+  vertical-align: middle;
+}
+
+table.form-table.iaposter-categories-to-boards-table td {
+  padding: 7px 10px 7px 0;
+}
+
+table.form-table.iaposter-categories-to-boards-table td.column-action span.dashicons {
+  cursor: pointer;
+  font-size: 30px;
+}
+
+p.iaposter-warning {
+  padding-bottom: 5px;
+  color: red;
+}

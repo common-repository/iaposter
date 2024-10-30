@@ -1,0 +1,10 @@
+This plugin uses the following 3rd party software:
+-----------------------------------------------------------------------------
+Name: Pinterest-API-PHP
+License: Apache License Version 2.0
+Copyright (c) Dirk Groenen
+URL: https://github.com/dirkgroenen/Pinterest-API-PHP
+Changes: Library was adjusted to work properly on PHP 5.2 (originally requires PHP 5.4). Class names were changed to fit plugin's naming convention and not cause conflicts with other plugins.
+
+You can find this library in /includes/pinterest/Pinterest. The license file can be found in /includes/pinterest/Pinterest/LICENSE.md
+-----------------------------------------------------------------------------

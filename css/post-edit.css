@@ -1,0 +1,28 @@
+.iaposter_post_edit h3 {
+  margin: 0.5em 0;
+}
+
+.iaposter_post_edit a {
+  text-decoration: none;
+}
+
+.iaposter_post_edit .iaposter_image_table {
+  height: 300px;
+  overflow: auto;
+}
+
+.iaposter_post_edit .iaposter_image_table table td.iaposter_image img {
+  max-width: 100%;
+}
+
+.iaposter_post_edit .iaposter_image_table table input {
+  margin: 1px;
+}
+
+.iaposter_post_edit .iaposter_image_table table span[ng-click] {
+  cursor: pointer;
+}
+
+.iaposter_post_edit .iaposter_post_edit-settings .iaposter_error {
+  color: #dc3232;
+}
